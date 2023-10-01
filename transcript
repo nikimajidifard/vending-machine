@@ -1,0 +1,77 @@
+# Reading pref.tcl
+# //  ModelSim SE-64 2020.4 Oct 13 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# OpenFile C:/Users/AsusIran/Desktop/state_machine/vending_machine_fsm.mpf
+# Loading project vending_machine_fsm
+# Load canceled
+# Compile of vendingmachine.vhd failed with 1 errors.
+# Compile of vendingmachine.vhd was successful.
+# Compile of vendingmachine.vhd was successful.
+vsim -gui work.fsm_tb
+# vsim -gui work.fsm_tb 
+# Start time: 20:51:00 on Jun 28,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.fsm_tb(tb_arch)#1
+add wave -position insertpoint sim:/fsm_tb/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: AsusIran  Hostname: DESKTOP-8P7BMBK  ProcessID: 6820
+#           Attempting to use alternate WLF file "./wlftm3kac6".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftm3kac6
+run
+run
+run
+vsim -gui work.fsm_tb
+# End time: 20:52:51 on Jun 28,2023, Elapsed time: 0:01:51
+# Errors: 0, Warnings: 6
+# vsim -gui work.fsm_tb 
+# Start time: 20:52:51 on Jun 28,2023
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.fsm_tb(tb_arch)#1
+add wave -position insertpoint sim:/fsm_tb/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: AsusIran  Hostname: DESKTOP-8P7BMBK  ProcessID: 6820
+#           Attempting to use alternate WLF file "./wlftz4q38g".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftz4q38g
+run
+run
+# Compile of vendingmachine.vhd was successful.
+vsim -gui work.fsm_tb
+# End time: 20:54:50 on Jun 28,2023, Elapsed time: 0:01:59
+# Errors: 0, Warnings: 4
+# vsim -gui work.fsm_tb 
+# Start time: 20:54:50 on Jun 28,2023
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.fsm_tb(tb_arch)#1
+add wave -position insertpoint sim:/fsm_tb/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: AsusIran  Hostname: DESKTOP-8P7BMBK  ProcessID: 6820
+#           Attempting to use alternate WLF file "./wlft3i6i9w".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft3i6i9w
+run
+# Break key hit
+# Break key hit
+# End time: 21:52:12 on Jun 28,2023, Elapsed time: 0:57:22
+# Errors: 0, Warnings: 3

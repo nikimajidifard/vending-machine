@@ -1,0 +1,123 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/AsusIran/Desktop/Hw3
+T_opt
+!s110 1687805544
+V]Cf<Dgo=fIORRM5K>DHE`3
+Z1 04 6 7 work fsm_tb tb_arch 1
+=1-5811223d2d4b-6499de68-92-9768
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1687978563
+V_8angKgd:3ceT@U]h8;1n3
+R1
+=1-5811223d2d4b-649c8243-20-6348
+R2
+R3
+n@_opt1
+R4
+T_opt2
+!s110 1687976666
+VCLOYBVaG6JZC8UAh2Zz8j1
+04 3 8 work fsm behavior 1
+=1-5811223d2d4b-649c7ada-131-4ad8
+R2
+R3
+n@_opt2
+R4
+R0
+Efsm
+Z5 w1687978416
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 10
+Z8 dC:/Users/AsusIran/Desktop/state_machine
+Z9 8C:/Users/AsusIran/Desktop/state_machine/vendingmachine.vhd
+Z10 FC:/Users/AsusIran/Desktop/state_machine/vendingmachine.vhd
+l0
+L5 1
+VjKECme[fa1>kD5DFDU39D3
+!s100 b8:odmE@do[gdVcW<okNl2
+Z11 OL;C;2020.4;71
+32
+Z12 !s110 1687978556
+!i10b 1
+Z13 !s108 1687978556.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/AsusIran/Desktop/state_machine/vendingmachine.vhd|
+Z15 !s107 C:/Users/AsusIran/Desktop/state_machine/vendingmachine.vhd|
+!i113 0
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1 CvgOpt 0
+Abehavior
+R6
+R7
+Z18 DEx4 work 3 fsm 0 22 jKECme[fa1>kD5DFDU39D3
+!i122 10
+l25
+L15 96
+V71TjlVDHPcEeLgG:5Ke=Q1
+!s100 UUPbDnIFoB]GEII;?oo581
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
+Efsm_tb
+R5
+R6
+R7
+!i122 10
+R8
+R9
+R10
+l0
+L118 1
+ViX]GEMf;SiJY_9F<zYjLY3
+!s100 1bk5Pnj4HVoa5BXhl;Bef2
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
+Atb_arch
+R18
+R6
+R7
+DEx4 work 6 fsm_tb 0 22 iX]GEMf;SiJY_9F<zYjLY3
+!i122 10
+l130
+L121 73
+V52[Deo8lF^TK_G:f>EJCS0
+!s100 MnRNTn6=OFV3RTE48U]hJ2
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
