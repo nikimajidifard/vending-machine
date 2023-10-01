@@ -7,7 +7,8 @@ if the amount of money is more than the amount of the drink, the rest of the mon
 Moore state machine is as follows:
 ![FSM](https://github.com/nikimajidifard/vending-machine/assets/56204470/f04d5bc2-7304-47bf-a43d-dba6762f96a5)
 
-Description is available on [State_Machine_98522328_98522382.pdf](https://github.com/nikimajidifard/vending-machine/files/12775778/State_Machine_98522328_98522382.pdf) (fa).
+Description is available on [State_Machine.pdf](https://github.com/nikimajidifard/vending-machine/files/12775781/State_Machine.pdf) (fa).
+
 
 
 
