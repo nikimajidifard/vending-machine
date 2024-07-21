@@ -1,4 +1,5 @@
 # vending-machine
+Teamworkers:Banafsheh Gholinejad-Niki Majidifard
 VHDL code to implement a vending machine.
 It's about the vending machine that sells a special drink and each of them costs $2. Our currencies are only $1, $2 and $5.
 This machine has been designed in such a way that when it receives enough money, it will give the drink, also if
